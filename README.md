@@ -1,2 +1,2 @@
 # DoofRand
-A random number generator baised off of the double pendulum model.
+A random number generator based off of the double pendulum model.
